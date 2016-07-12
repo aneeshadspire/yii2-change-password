@@ -1,6 +1,6 @@
 This is change password module
 Set UP
-1. Copy the "changepass" folder to the module directory in frontend or backend or both
+1. Copy the "changepass" folder to the module directory(create one if not exists in backend or frontend directory) in frontend or backend or both
 2. Then add this module to the common/config/main.php file as below
 	//if you are on the backend then
     	'modules' => [
